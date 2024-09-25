@@ -5,7 +5,7 @@ Use this project if you need to send batch messages to contacts, without creatin
 1. Clone the project
 2. Install dependencies
 3. Prepare a .csv file with 2 columns: name and number (which is the phone number)
-    3.1. Phone number may have special characters like `+`, `-`, `(` or `)`. If you want, check the regex expression the extracts only the number from the text.
+    - Phone number may have special characters like `+`, `-`, `(` or `)`. If you want, check the regex expression the extracts only the number from the text.
 4. Adjust the message you want to send
 5. Run the project with `npm start`
 6. Connect your whatsapp using the generated qr code
