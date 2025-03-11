@@ -1,5 +1,8 @@
 # WhatsApp Batch Sender
 
+> [!CAUTION]
+> Utilizar esse código com listas muito grandes pode fazer com que seu número seja bloqueado pela Meta. Utilize apenas para testes simples, ou considere usar um delay randomico grande entre as mensagens. A regra pra não ser bloqueado é muito incógnita. Qualquer uso é responsabilidade exclusiva do desenvolvedor. You have been warned.
+
 O projeto **WhatsApp Batch Sender** é uma ferramenta que permite o envio de mensagens em massa para contatos individuais no WhatsApp, sem a necessidade de criar grupos ou listas de transmissão.
 
 ## Funcionalidades
